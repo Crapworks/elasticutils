@@ -13,4 +13,4 @@ Free:  12.9TiB
 Used:  3.9TiB
 ```
 
-Please not again that it shows **NOT** only the storage on the node you specify. This is the total/free/used storage by your whole cluster
+Please note again that it shows **NOT** only the storage on the node you specify. This is the total/free/used storage by your whole cluster
